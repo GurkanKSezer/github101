@@ -4,3 +4,6 @@ print("New line is added")
 
 # New line is added
 print("Hey! I'm changing the file!")
+
+for i in range(5):
+  print("Hey there! Wassup?")
