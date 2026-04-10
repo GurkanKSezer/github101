@@ -16,8 +16,11 @@ for i in range(5,-1,-1):
     time.sleep(1)
 
 print("Rocket was launched!")
+<<<<<<< HEAD
 
 
 # First line of your first code
 print("Hello world!")
 >>>>>>> dc7f526 (code file was loaded)
+=======
+>>>>>>> 0250cb8 (code file was changed)
